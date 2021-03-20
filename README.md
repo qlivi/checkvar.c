@@ -1,0 +1,2 @@
+# checkvar.c
+checkvar
